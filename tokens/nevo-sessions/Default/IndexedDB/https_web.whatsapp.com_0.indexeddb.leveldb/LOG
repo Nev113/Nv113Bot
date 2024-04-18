@@ -1,0 +1,15 @@
+2024/04/11-23:02:22.025 61e4 Reusing MANIFEST /home/nevosangkane/anonChat/tokens/nevo-sessions/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/11-23:02:22.026 61e4 Recovering log #272
+2024/04/11-23:02:22.035 61e4 Reusing old log /home/nevosangkane/anonChat/tokens/nevo-sessions/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000272.log 
+2024/04/11-23:02:31.357 61e7 Level-0 table #278: started
+2024/04/11-23:02:31.363 61e7 Level-0 table #278: 161143 bytes OK
+2024/04/11-23:02:31.365 61e7 Delete type=0 #272
+2024/04/11-23:02:31.366 61e2 Manual compaction at level-0 from '\x00Q\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00R\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-23:02:33.971 61e4 Compacting 1@1 + 2@2 files
+2024/04/11-23:02:34.107 61e4 Generated table #279@1: 61367 keys, 2272856 bytes
+2024/04/11-23:02:34.140 61e4 Generated table #280@1: 16268 keys, 487143 bytes
+2024/04/11-23:02:34.140 61e4 Compacted 1@1 + 2@2 files => 2759999 bytes
+2024/04/11-23:02:34.143 61e4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/04/11-23:02:34.143 61e4 Delete type=2 #274
+2024/04/11-23:02:34.143 61e4 Delete type=2 #278
+2024/04/11-23:02:34.143 61e4 Delete type=2 #275
